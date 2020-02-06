@@ -1,4 +1,4 @@
-1.1@0.0.q Literally in Greek we ask "how do you have?".
+1.1@0.0.q To ask "How are you?" in Greek we literally ask "how do you have?".
 1.1@0.1.q ἕχεις is 'you have' in Greek if you're talking to one person. πῶς is 'how'.
 1.1@0.2.q How would you say "how do you have"?
 1.1@0.2.a πῶς ἔχεις;
@@ -8,7 +8,7 @@
 1.1@0.5.q How would you say "How do you (all) have?"
 1.1@0.5.a πῶς ἔχετε;
 
-1.2@0.0.q To answer with "I'm doing ___" we literally say "I have ___".
+1.2@0.0.q To answer "I'm doing ___" we literally say "I have ___".
 1.2@0.1.q _ἔχω_ means 'I have'.
 1.2@0.2.q 'well' or 'good' is _καλῶς_.
 1.2@0.3.q How would you say "I'm doing well"?
