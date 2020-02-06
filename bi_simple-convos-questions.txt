@@ -1,0 +1,17 @@
+1.1@0.0.q Secara harfiah "Apa kabar?" dalam bahasa Yunani adalah "Bagaimana Anda punya?"
+1.1@0.1.q _ἕχεις_ berarti 'Anda punya' dalam bahasa Yunani dan _πῶς_ berarti 'bagaimana'.
+1.1@0.2.q Jadi, bagaimana Anda bisa bertanya "Apa kabar?" dalam b. Yunani? (Secara harfiah, "bagaimana Anda punya?")
+1.1@0.2.a πῶς ἔχεις;
+1.1@0.4.q Kalau kita berbicara dengan lebih satu orang, kita bertanya "Bagaimana kalian punya?"
+1.1@0.5.q _ἔχετε_ berarti 'kalian punya'.
+1.1@0.5.q Jadi, bagaimana Anda bisa bertanya "Apa kabar kalian?" dalam b. Yunani?
+1.1@0.5.a πῶς ἔχετε;
+
+1.2@0.0.q Untuk menjawab "Kabar baik", kita bilang "Saya punya baik"
+1.2@0.1.q _ἔχω_ berarti 'saya punya'.
+1.2@0.2.q 'baik' adalah _καλῶς_ dalam b. Yunani.
+1.2@0.3.q Jadi, bagaimana Anda bisa menjawab "Kabar baik" dalam b. Yunani?
+1.2@0.3.a ἔχω καλῶς.
+1.2@0.4.q _κακῶς_ berarti 'tidak baik'.
+1.2@0.5.q Jadi, bagaimana Anda bisa menjawab "Kabar _tidak_ baik"?
+1.2@0.5.q ἔχω κακῶς.
