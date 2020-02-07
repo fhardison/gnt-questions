@@ -4,7 +4,7 @@ A set of questions based on the SBLGNT text from [gnt-texts](https://github.com/
 
 Also includes simple conversations in Ancient/Koine Greek.
 
-Also includes some Indonesian translation versions. I learned some and I have some friends who might enjoy learning Greek through Indonesian. Or one could learn Indonesian through Greek ;-).
+Also includes some Indonesian versions. I learned some Indonesian and I have some friends who might enjoy learning Greek through Indonesian. Or one could learn Indonesian through Greek ;-).
 
 ## License
 
